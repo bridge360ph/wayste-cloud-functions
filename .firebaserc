@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "staging-wayste",
-    "prod": "prod-wayste"
+    "default": "prod-wayste"
   }
 }
